@@ -1,0 +1,65 @@
+/*======Extra small device start  */
+@media screen and (max-width: 575.99px) {}
+
+/* ======Extra small device End */
+
+/*====== small device start  */
+@media (min-width:575.98px) and (max-width: 767.99px) {}
+
+
+/* ====== small device End */
+
+/*====== Medium device start  */
+@media (min-width:768px) and (max-width: 991.99px) {}
+
+
+/* ====== Medium device End */
+
+/*====== Large device start  */
+@media (min-width:992px) and (max-width: 1199.99px) {}
+
+/* ====== Large device End */
+
+/*=======Extra large device start  */
+@media (min-width:1200px) and (max-width: 1399.99px) {
+    .banner_shap01 {
+        top: 110px;
+        right: -30px;
+    }
+
+}
+
+/* ====== Extra large device End */
+
+/*=======Extra extra large device start  */
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    .banner_shap01 {
+        top: 110px;
+        right: 240px;
+
+    }
+
+}
+
+
+
+
+/* ====== Extra extra large device End */
+/* // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... } */
